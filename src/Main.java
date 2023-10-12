@@ -11,7 +11,7 @@ public class Main
         }
 //task A2
         System.out.println("Decreasing");
-        for(int r=30; r > 0; r--)
+        for(int r=30; r > -1; r--)
         {
             System.out.println(""  + r );
         }
